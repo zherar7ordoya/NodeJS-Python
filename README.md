@@ -6,6 +6,6 @@ Access the application through link :
 
     localhost:3000/name?firstname="Enter first name"&lastname="Enter last name"
 
-For e.g.: <http://localhost:3000/name?firstname=Gerardo&lastname=Tordoya>
+For e.g.: <http://localhost:3000/name?firstname=GERARDO&lastname=TORDOYA>
 
 ***Reference:*** <https://nodejs.org/api/child_process.html>
